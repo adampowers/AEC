@@ -1,165 +1,153 @@
 <html>
-<head>
-<title>Pepe's Tacos - Serving SD since 2004</title>
- 	<link rel="stylesheet" type="text/css" href="css/style2.css">
-	<!--[if lt IE 9]>
-	<script src="js/html5shiv.min.js"></script>
-	<![endif]-->
-</head>
-
-<body>
-
-	
-
-
-
-<header>
-	<h1>Pepe's Tacos</h1>
-	
-	<div id="nav" class="section">
-		<ul>
-		    <li class="current"><a href="#info">Info</a></li>
-		    <li><a href="#about">About</a></li>
-		    <li><a href="#menu">Menu</a></li>
-		    <li><a href="#contact">Contact</a></li>
-		</ul>
-	</div>
-</header>
+	<head>
+		<title>Pepe's Tacos - Serving SD since 2004</title>
+	 	<link rel="stylesheet" type="text/css" href="css/main.css">
+		<!--[if lt IE 9]>
+		<script src="js/html5shiv.min.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+		<header>
+			<h1>Pepe's Tacos</h1>
+			
+			<div id="nav" class="section">
+				<ul>
+				    <li class="current"><a href="#about">About</a></li>
+				    <li><a href="#info">Info</a></li>
+				    <li><a href="#menu">Menu</a></li>
+				</ul>
+			</div>
+		</header>
 
 
-<div id="about" class="section">
-		<p>
-			Our story starts with one man's passion for great food. Say hello to Pepe.
-			Pepe moved to San Diego in the early 80's and  fell in love with the sunshine, the surf and the amazing food, particularly of the Mexican variety. One thing Pepe didn't love was his job. After a few years of working at a local tech company, Pepe had had enough and decided it was time to hit the streets, literally! So in the summer of 2004, Pepe's Tacos was born.
-		</p>
-		<p>
-			Pepe is committed to using quality ingredients and has uniquely San Diego take on tacos. That means a lot of seafood and a lot of avocado. Pepe gets his ingredients fresh each morning so you can rest assured that when you visit Pepe, you're getting the best tacos in SD.
-		</p>
-		<p>
-			Pepe likes to move around, opening up shop in a different locations throughout the week. Check out the map and calendar below to see where he's going to be today. See you on the streets!
-		</p>
-</div>
+		<div id="about" class="section">
+			<p>
+				Our story starts with one man's passion for great food. Say hello to Pepe.
+				Pepe moved to San Diego in the early 80's and  fell in love with the sunshine, the surf and the amazing food, particularly of the Mexican variety. One thing Pepe didn't love was his job. After a few years of working at a local tech company, Pepe had had enough and decided it was time to hit the streets, literally! So in the summer of 2004, Pepe's Tacos was born.
+			</p>
+			<p>
+				Pepe is committed to using quality ingredients and has uniquely San Diego take on tacos. That means a lot of seafood and a lot of avocado. Pepe gets his ingredients fresh each morning so you can rest assured that when you visit Pepe, you're getting the best tacos in SD.
+			</p>
+			<p>
+				Pepe likes to move around, opening up shop in a different locations throughout the week. Check out the map and calendar below to see where he's going to be today. See you on the streets!
+			</p>
+		</div>
 
-<div id="photo" class="section">
-	<img alt="Tiki Taco Truck" src="img/truck.png"/>
-</div>
+		<div id="photo" class="section">
+			<img alt="Pepe's Tacos" src="img/truck.png" class="truck"/>
+		</div>
 
+		<div id="info" class="section">
+			<div id="contact">
+				<h2>Contact</h2>
+				<span>Give us a ring at 858.123.4567</span>	
+			</div>
 
-<div id="info" class="section">
-	<div id="contact">
-		<h2>Contact</h2>
-		<span>Give us a ring at 858.123.4567</span>	
-	</div>
+			<div id="calendar">
+				<h2>Calendar</h2>
+				<ul>
+					<li><strong>Monday</strong> // 5170 Mission Blvd</li>
+					<li><strong>Tuesday</strong> // 5170 Mission Blvd</li>
+					<li><strong>Wednesday</strong> // 5170 Mission Blvd</li>
+					<li><strong>Thursday</strong> // 5170 Mission Blvd</li>
+					<li><strong>Friday</strong> // 714 Venture Place</li>
+					<li><strong>Saturday</strong> // 714 Venture Place</li>
+					<li><strong>Sunday</strong> // 714 Venture Place</li>		
+				</ul>
+			</div>
+		</div>
 
+		<!-- Google Maps -->
+		<div id="map" class="section">
+			<h2>Map</h2>
+			<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false">
+			</script>
+			<div style="overflow:hidden;height:300px;width:100%;">
+				<div id="gmap_canvas" style="height:300px;width:auto;"></div>	
+			</div>
+			<script type="text/javascript"> function init_map(){var myOptions = {zoom:14,center:new google.maps.LatLng(32.8081216,-117.25905979999999),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(32.8081216, -117.25905979999999)});infowindow = new google.maps.InfoWindow({content:"<b>Pepe's Tacos (Current Location)</b><br/>5170 Mission Blvd<br/> San Diego" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);
+			</script>
+		</div>
 
-	<div id="calendar">
-		<h2>Calendar</h2>
-		<ul>
-			<li><strong>Monday</strong> // 5170 Mission Blvd</li>
-			<li><strong>Tuesday</strong> // 5170 Mission Blvd</li>
-			<li><strong>Wednesday</strong> // 5170 Mission Blvd</li>
-			<li><strong>Thursday</strong> // 5170 Mission Blvd</li>
-			<li><strong>Friday</strong> // 714 Venture Place</li>
-			<li><strong>Saturday</strong> // 714 Venture Place</li>
-			<li><strong>Sunday</strong> // 714 Venture Place</li>		
-		</ul>
-	</div>
-</div>
+		<div id="menu" class="section">
+			<h2>Menu</h2>
+			
+				<h3>Tacos</h3>
+					<div class="menu-item">
+						<img src="img/fish.png">
+						<span>Fish Taco ($1.50) - It is San Diego after all</span>
+					</div>
 
-<!-- Google Maps -->
-<div id="map" class="section">
-	<h2>Map</h2>
-	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script
-	<div style="overflow:hidden;height:300px;width:100%;">
-		<div id="gmap_canvas" style="height:300px;width:auto;"></div>	
-	</div>
-	<script type="text/javascript"> function init_map(){var myOptions = {zoom:14,center:new google.maps.LatLng(32.8081216,-117.25905979999999),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(32.8081216, -117.25905979999999)});infowindow = new google.maps.InfoWindow({content:"<b>Tiki Taco (Current Location)</b><br/>5170 Mission Blvd<br/> San Diego" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);
-	</script>
-</div>
+					<div class="menu-item">
+						<img src="img/shrimp.png">
+						<span>Shrimp Taco ($3) - For the more refined</span>
+					</div>
 
+					<div class="menu-item">
+						<img src="img/carne_asada.png">
+						<span>Carne Asade Taco ($3) - Bone-i-fied red meat (without the bones of course!)</span>
+					</div>
 
-<div id="menu" class="section">
-	<h2>Menu</h2>
-	
-	<h3>Tacos</h3>
-	
-	<div class="menu-item">
-		<img src="img/fish.png">
-		<span>Fish Taco ($1.50) - It is San Diego after all</span>
-	</div>
+					<div class="menu-item">
+						<img src="img/pork.png">
+						<span>Carnitas Taco ($3) - The only way to do pork</span>
+					</div>
 
-	<div class="menu-item">
-		<img src="img/shrimp2.png">
-		<span>Shrimp Taco ($3) - For the more refined</span>
-	</div>
+					<div class="menu-item">
+						<img src="img/chicken.png">
+						<span>Chicken Taco ($3) - A classic</span>
+					</div>
 
-	<div class="menu-item">
-		<img src="img/carne_asada.png">
-		<span>Carne Asade Taco ($3) - Bone-i-fied red meat (without the bones of course!)</span>
-	</div>
+			<h3>Sides</h3>
+				<div class="menu-item sides">
+					<img src="img/beans.png">
+					<span>Beans ($4) - 1/2 pint of our beans</span>
+				</div>
 
-	<div class="menu-item">
-		<img src="img/pork.png">
-		<span>Carnitas Taco ($3) - The only way to do pork</span>
-	</div>
+				<div class="menu-item sides">
+					<img src="img/rice.png">
+					<span>Rice ($4) - 1/2 pint Mexican style</span>
+				</div>
 
-	<div class="menu-item">
-		<img src="img/chicken.png">
-		<span>Chicken Taco ($3) - A classic</span>
-	</div>
+				<div class="menu-item sides">
+					<img src="img/avocado.png">
+					<span>Avocado ($1.50 per taco) - Make it California style</span>
+				</div>
+				
+				<div class="menu-item sides">
+					<img src="img/chips.png">
+					<span>Tortilla Chips ($3) - Comes with your very own Pepe's Taco Truck collectors bag</span>
+				</div>
 
-	<h2>Sides</h2>
+			<h3>Salsas</h3>
+				<div class="menu-item salsas">
+					<img src="img/salsa.png" class="left">
+					<strong>Choose Wisely</strong>
+					<ul>
+						<li>Pico de Gallo</li>
+						<li>Chipotle</li>
+						<li>Corn and Bean</li>
+						<li>Green</li>
+						<li>Flaming Hot</li>
+					</ul>
+				</div>
+		</div>
 
-	<div class="menu-item">
-		<span>Beans ($4) - 1/2 pint of our beans</span>
-	</div>
+		<!--[if lte IE 8]>
+				<script src="js/jquery-1.11.1.min.js"></script>
+		<![endif]-->
+		<!--[if gt IE 8]>
+				<!--><script src="js/jquery-2.1.1.min.js"></script>
+		<!--<![endif]-->
 
-	<div class="menu-item">
-		<span>Rice ($4) - 1/2 pint Mexican style</span>
-	</div>
-
-	<div class="menu-item">
-		<span>Avocado ($1.50 per taco) - Make it California style</span>
-	</div>
-	
-	<div class="menu-item">
-		<span>Tortilla Chips ($3) - Comes with your very own Pepe's Taco Truck collectors bag</span>
-	</div>
-
-	<div class="menu-item">
-		<strong>Choose Wisely</strong>
-		<ul>
-			<li>Salsa List</li>
-			<li>Pico de Gallo</li>
-			<li>Chipotle</li>
-			<li>Corn and Bean</li>
-			<li>Green</li>
-			<li>Flaming Hot</li>
-		</ul>
-	</div>
-
-	<div class="menu-tacos">
-	</div>
-
-	<div class="menu-sides">
-	</div>
-
-</div>
-
-<div id="contact" class="section">
-	<h2>Contact</h2>
-	<form>
-		<input type="textbx"
-
-</div>
-
-
-<!--[if lte IE 8]>
-		<script src="js/jquery-1.11.1.min.js"></script>
-<![endif]-->
-<!--[if gt IE 8]>
-		<!--><script src="js/jquery-2.1.1.min.js"></script>
-<!--<![endif]-->
-
-</body>
+	</body>
 </html>
+
+	<div style="display:none;">
+		Flickr Attribution:
+			Beans - SaucyGlo
+			Rice - paperfacets
+			Avocado - evenblaser
+			Tortilla Chips - chriswaits
+			Salsa - banky177
+	</div>

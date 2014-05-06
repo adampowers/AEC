@@ -1,0 +1,41 @@
+body {
+color: #777;
+background-image: url('../img/bg.png');
+background-attachment: fixed;
+font-weight: 400;
+line-height: 18px;
+
+font-family: Helvetica, Arial, sans-serif;
+}
+
+.section {
+	background-color: #e9e9d1;
+	padding: 10px;
+}
+
+.menu-item img {
+	width: 240px;
+	height: 160px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+
+.menu-item.sides img {
+	width: 200px;
+	height: 150px;
+}
+
+.truck { 
+	width: 500px;
+	height: 320px;
+	
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+}
+
+.current {
+	font-weight: 700;
+}
