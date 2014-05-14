@@ -1,207 +1,467 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "16903",
+"creatorBuild": "16921",
 "files": {
-	"\/css\/main.css": {
+	"\/pepestacos\/css\/main.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/main.css",
+		"inputAbbreviatedPath": "\/pepestacos\/css\/main.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/img\/avocado.png": {
+	"\/pepestacos\/img\/avocado.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 54687,
-		"inputAbbreviatedPath": "\/img\/avocado.png",
-		"outputAbbreviatedPath": "\/img\/avocado.png",
+		"inputAbbreviatedPath": "\/pepestacos\/img\/avocado.png",
+		"outputAbbreviatedPath": "\/pepestacos\/img\/avocado.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/beans.png": {
+	"\/pepestacos\/img\/beans.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 75099,
-		"inputAbbreviatedPath": "\/img\/beans.png",
-		"outputAbbreviatedPath": "\/img\/beans.png",
+		"inputAbbreviatedPath": "\/pepestacos\/img\/beans.png",
+		"outputAbbreviatedPath": "\/pepestacos\/img\/beans.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/bg.png": {
+	"\/pepestacos\/img\/bg.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 66703,
-		"inputAbbreviatedPath": "\/img\/bg.png",
-		"outputAbbreviatedPath": "\/img\/bg.png",
+		"inputAbbreviatedPath": "\/pepestacos\/img\/bg.png",
+		"outputAbbreviatedPath": "\/pepestacos\/img\/bg.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/carne_asada.png": {
+	"\/pepestacos\/img\/carne_asada.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 475627,
-		"inputAbbreviatedPath": "\/img\/carne_asada.png",
-		"outputAbbreviatedPath": "\/img\/carne_asada.png",
+		"inputAbbreviatedPath": "\/pepestacos\/img\/carne_asada.png",
+		"outputAbbreviatedPath": "\/pepestacos\/img\/carne_asada.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/chicken.png": {
+	"\/pepestacos\/img\/chicken.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 506924,
-		"inputAbbreviatedPath": "\/img\/chicken.png",
-		"outputAbbreviatedPath": "\/img\/chicken.png",
+		"inputAbbreviatedPath": "\/pepestacos\/img\/chicken.png",
+		"outputAbbreviatedPath": "\/pepestacos\/img\/chicken.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/chips.png": {
+	"\/pepestacos\/img\/chips.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 67121,
-		"inputAbbreviatedPath": "\/img\/chips.png",
-		"outputAbbreviatedPath": "\/img\/chips.png",
+		"inputAbbreviatedPath": "\/pepestacos\/img\/chips.png",
+		"outputAbbreviatedPath": "\/pepestacos\/img\/chips.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/fish.png": {
+	"\/pepestacos\/img\/fish.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 445111,
-		"inputAbbreviatedPath": "\/img\/fish.png",
-		"outputAbbreviatedPath": "\/img\/fish.png",
+		"inputAbbreviatedPath": "\/pepestacos\/img\/fish.png",
+		"outputAbbreviatedPath": "\/pepestacos\/img\/fish.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/pork.png": {
+	"\/pepestacos\/img\/pork.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 405164,
-		"inputAbbreviatedPath": "\/img\/pork.png",
-		"outputAbbreviatedPath": "\/img\/pork.png",
+		"inputAbbreviatedPath": "\/pepestacos\/img\/pork.png",
+		"outputAbbreviatedPath": "\/pepestacos\/img\/pork.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/rice.png": {
+	"\/pepestacos\/img\/rice.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 68514,
-		"inputAbbreviatedPath": "\/img\/rice.png",
-		"outputAbbreviatedPath": "\/img\/rice.png",
+		"inputAbbreviatedPath": "\/pepestacos\/img\/rice.png",
+		"outputAbbreviatedPath": "\/pepestacos\/img\/rice.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/salsa.png": {
+	"\/pepestacos\/img\/salsa.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 229446,
-		"inputAbbreviatedPath": "\/img\/salsa.png",
-		"outputAbbreviatedPath": "\/img\/salsa.png",
+		"inputAbbreviatedPath": "\/pepestacos\/img\/salsa.png",
+		"outputAbbreviatedPath": "\/pepestacos\/img\/salsa.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/shrimp.png": {
+	"\/pepestacos\/img\/shrimp.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 429307,
-		"inputAbbreviatedPath": "\/img\/shrimp.png",
-		"outputAbbreviatedPath": "\/img\/shrimp.png",
+		"inputAbbreviatedPath": "\/pepestacos\/img\/shrimp.png",
+		"outputAbbreviatedPath": "\/pepestacos\/img\/shrimp.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/truck.png": {
+	"\/pepestacos\/img\/truck.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.02235e+06,
-		"inputAbbreviatedPath": "\/img\/truck.png",
-		"outputAbbreviatedPath": "\/img\/truck.png",
+		"inputAbbreviatedPath": "\/pepestacos\/img\/truck.png",
+		"outputAbbreviatedPath": "\/pepestacos\/img\/truck.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/index.html": {
+	"\/pepestacos\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.html",
+		"inputAbbreviatedPath": "\/pepestacos\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/js\/html5shiv.min.js": {
+	"\/pepestacos\/js\/html5shiv.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/html5shiv.min.js",
-		"outputAbbreviatedPath": "\/js\/min\/html5shiv.min-ck.js",
+		"inputAbbreviatedPath": "\/pepestacos\/js\/html5shiv.min.js",
+		"outputAbbreviatedPath": "\/pepestacos\/js\/min\/html5shiv.min-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/js\/jquery-1.11.1.min.js": {
+	"\/pepestacos\/js\/jquery-1.11.1.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/jquery-1.11.1.min.js",
-		"outputAbbreviatedPath": "\/js\/min\/jquery-1.11.1.min-ck.js",
+		"inputAbbreviatedPath": "\/pepestacos\/js\/jquery-1.11.1.min.js",
+		"outputAbbreviatedPath": "\/pepestacos\/js\/min\/jquery-1.11.1.min-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/js\/jquery-2.1.1.min.js": {
+	"\/pepestacos\/js\/jquery-2.1.1.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/jquery-2.1.1.min.js",
-		"outputAbbreviatedPath": "\/js\/min\/jquery-2.1.1.min-ck.js",
+		"inputAbbreviatedPath": "\/pepestacos\/js\/jquery-2.1.1.min.js",
+		"outputAbbreviatedPath": "\/pepestacos\/js\/min\/jquery-2.1.1.min-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/js\/jquery.js": {
+	"\/pepestacos\/js\/jquery.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/jquery.js",
-		"outputAbbreviatedPath": "\/js\/min\/jquery-ck.js",
+		"inputAbbreviatedPath": "\/pepestacos\/js\/jquery.js",
+		"outputAbbreviatedPath": "\/pepestacos\/js\/min\/jquery-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/js\/jquery.nav.js": {
+	"\/pepestacos\/js\/jquery.nav.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/jquery.nav.js",
-		"outputAbbreviatedPath": "\/js\/min\/jquery.nav-ck.js",
+		"inputAbbreviatedPath": "\/pepestacos\/js\/jquery.nav.js",
+		"outputAbbreviatedPath": "\/pepestacos\/js\/min\/jquery.nav-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/stevesautos\/css\/main.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stevesautos\/css\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stevesautos\/img\/badge_aaa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12544,
+		"inputAbbreviatedPath": "\/stevesautos\/img\/badge_aaa.png",
+		"outputAbbreviatedPath": "\/stevesautos\/img\/badge_aaa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stevesautos\/img\/badge_ase.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9772,
+		"inputAbbreviatedPath": "\/stevesautos\/img\/badge_ase.png",
+		"outputAbbreviatedPath": "\/stevesautos\/img\/badge_ase.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stevesautos\/img\/badge_bbb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2133,
+		"inputAbbreviatedPath": "\/stevesautos\/img\/badge_bbb.png",
+		"outputAbbreviatedPath": "\/stevesautos\/img\/badge_bbb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stevesautos\/img\/badge_napa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17168,
+		"inputAbbreviatedPath": "\/stevesautos\/img\/badge_napa.png",
+		"outputAbbreviatedPath": "\/stevesautos\/img\/badge_napa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stevesautos\/img\/badge_star.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13936,
+		"inputAbbreviatedPath": "\/stevesautos\/img\/badge_star.png",
+		"outputAbbreviatedPath": "\/stevesautos\/img\/badge_star.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stevesautos\/img\/bg_dark.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 418,
+		"inputAbbreviatedPath": "\/stevesautos\/img\/bg_dark.png",
+		"outputAbbreviatedPath": "\/stevesautos\/img\/bg_dark.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stevesautos\/img\/bg_light.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1025,
+		"inputAbbreviatedPath": "\/stevesautos\/img\/bg_light.png",
+		"outputAbbreviatedPath": "\/stevesautos\/img\/bg_light.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stevesautos\/img\/bg_metal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1182,
+		"inputAbbreviatedPath": "\/stevesautos\/img\/bg_metal.png",
+		"outputAbbreviatedPath": "\/stevesautos\/img\/bg_metal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stevesautos\/img\/pay_amex.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2251,
+		"inputAbbreviatedPath": "\/stevesautos\/img\/pay_amex.png",
+		"outputAbbreviatedPath": "\/stevesautos\/img\/pay_amex.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stevesautos\/img\/pay_cash.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1147,
+		"inputAbbreviatedPath": "\/stevesautos\/img\/pay_cash.png",
+		"outputAbbreviatedPath": "\/stevesautos\/img\/pay_cash.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stevesautos\/img\/pay_debit_atm.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 433,
+		"inputAbbreviatedPath": "\/stevesautos\/img\/pay_debit_atm.png",
+		"outputAbbreviatedPath": "\/stevesautos\/img\/pay_debit_atm.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stevesautos\/img\/pay_discover.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2129,
+		"inputAbbreviatedPath": "\/stevesautos\/img\/pay_discover.png",
+		"outputAbbreviatedPath": "\/stevesautos\/img\/pay_discover.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stevesautos\/img\/pay_MC.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1519,
+		"inputAbbreviatedPath": "\/stevesautos\/img\/pay_MC.png",
+		"outputAbbreviatedPath": "\/stevesautos\/img\/pay_MC.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stevesautos\/img\/pay_visa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 613,
+		"inputAbbreviatedPath": "\/stevesautos\/img\/pay_visa.png",
+		"outputAbbreviatedPath": "\/stevesautos\/img\/pay_visa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stevesautos\/img\/pitstop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 187444,
+		"inputAbbreviatedPath": "\/stevesautos\/img\/pitstop.jpg",
+		"outputAbbreviatedPath": "\/stevesautos\/img\/pitstop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stevesautos\/img\/repair_29233640.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.63024e+06,
+		"inputAbbreviatedPath": "\/stevesautos\/img\/repair_29233640.jpg",
+		"outputAbbreviatedPath": "\/stevesautos\/img\/repair_29233640.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stevesautos\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stevesautos\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stevesautos\/js\/GoogleTour.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stevesautos\/js\/GoogleTour.js",
+		"outputAbbreviatedPath": "\/stevesautos\/js\/min\/GoogleTour-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/stevesautos\/js\/html5shiv.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stevesautos\/js\/html5shiv.min.js",
+		"outputAbbreviatedPath": "\/stevesautos\/js\/min\/html5shiv.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/stevesautos\/js\/jquery-1.11.1.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stevesautos\/js\/jquery-1.11.1.min.js",
+		"outputAbbreviatedPath": "\/stevesautos\/js\/min\/jquery-1.11.1.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/stevesautos\/js\/jquery-2.1.1.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stevesautos\/js\/jquery-2.1.1.min.js",
+		"outputAbbreviatedPath": "\/stevesautos\/js\/min\/jquery-2.1.1.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/stevesautos\/js\/jquery.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stevesautos\/js\/jquery.js",
+		"outputAbbreviatedPath": "\/stevesautos\/js\/min\/jquery-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/stevesautos\/js\/jquery.nav.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stevesautos\/js\/jquery.nav.js",
+		"outputAbbreviatedPath": "\/stevesautos\/js\/min\/jquery.nav-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -284,6 +544,14 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"no_empty_param_list": {
 			"active": 0,
 			"flagValue": -1
@@ -293,6 +561,10 @@
 			"flagValue": -1
 			},
 		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -318,6 +590,10 @@
 			},
 		"no_trailing_whitespace": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"non_empty_constructor_needs_parens": {
@@ -438,10 +714,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"gcl": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"globalstrict": {
 			"active": 0,
 			"flagValue": -1
@@ -554,10 +826,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"onevar": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"phantom": {
 			"active": 0,
 			"flagValue": -1
@@ -594,10 +862,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"smarttabs": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"strict": {
 			"active": 0,
 			"flagValue": -1
@@ -610,10 +874,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"trailing": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"typed": {
 			"active": 0,
 			"flagValue": -1
@@ -624,10 +884,6 @@
 			},
 		"unused": {
 			"active": 1,
-			"flagValue": -1
-			},
-		"white": {
-			"active": 0,
 			"flagValue": -1
 			},
 		"withstmt": {
@@ -958,7 +1214,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": ""
+	"websiteRelativeRoot": "stevesautos"
 	},
 "settingsFileVersion": "2"
 }

@@ -1,0 +1,20 @@
+Hey there, 
+
+Thanks for helping me with this project. Things are kind of a mess.
+
+I tried to whip up a website thinking, “How hard could it be?” and got myself into some trouble. Turns out fixing cars and making websites are two very different things.
+
+Anyway, I have a lot of the content I want already up on the site, but the formatting is all jacked up. It would be great if you could take a couple minutes and help me:
+
+1. Try to get the menu, contact info, map, and main photo all above the fold (or be seen without scrolling)
+
+2. Get all the badges and payment info in one section, whether it's a side column or a footer
+
+3. Make the menu look a little more modern
+
+4. Change the layout to be a little less disjointed
+
+You don't have to worry about any of the forms going anywhere or anything, I'll get my nephew to figure that stuff out later.
+
+Thanks,
+Steve
